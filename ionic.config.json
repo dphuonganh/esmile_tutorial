@@ -1,0 +1,7 @@
+{
+  "name": "esmile_tut",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
